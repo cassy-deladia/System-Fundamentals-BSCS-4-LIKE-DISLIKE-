@@ -26,7 +26,7 @@ class ContentRating extends Component {
     return (
       <div className="content-rating">
         <p>
-         //Text Here
+         lorem ipsum blah blah blah
         </p>
         <div className="rating-buttons"> 
           <button className="like-button" onClick={this.handleLike}>
